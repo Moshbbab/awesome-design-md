@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Curated collection of DESIGN.md files inspired by developer focused websites.</strong>
+    <strong>Curated collection of DESIGN.md analysis by developer focused websites.</strong>
     <br />
     <br />
 
